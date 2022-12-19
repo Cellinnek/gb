@@ -1,5 +1,3 @@
-
-
 pub struct  CPU {
     pub registers: Registers,
 }

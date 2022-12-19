@@ -1,4 +1,3 @@
-
 use minifb::{Scale, Window, WindowOptions};
 use crate::emulator::{ArithmeticTarget, CPU, FlagsRegister, Instruction, Registers};
 
